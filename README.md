@@ -1,4 +1,21 @@
-# PseudoCodi:
+# Reequirements
+
+-   Cuestionarionari preguntas con 4 respurestas
+
+-   Banco de preguntas (50 minimo)
+
+-   Preguntas sobre Java
+
+-   Verificar pregunta con respuesta
+
+-   Verificar el input del usuario sea correcto.
+
+
+
+
+# Design
+
+## PseudoCodi:
 Mentre (Resposta =! a, b, c, d)
 Escriure (Indica cual de las siguientes opciones no es un tipo primitivo de Java:)
 Escriure (a. int)
