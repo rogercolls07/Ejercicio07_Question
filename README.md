@@ -16,16 +16,16 @@
 # Design
 
 ## PseudoCodi:
-Mentre (Resposta =! a, b, c, d)
-Escriure (Indica cual de las siguientes opciones no es un tipo primitivo de Java:)
-Escriure (a. int)
-Escriure (b. char)
-Escriure (c. boolean)
-Escriure (d. String)
-Llegir (Resposta)
-Escriure (Resposta no vàlida. Posa 'a, b, c, d'.)
-Fimentre
-Si (Resposta = a, b, c)
-Escriure (La resposta no és incorrecte.)
-Sinó si (Resposta = d)
-Escriure (La resposta és correcte!)
+1.   Mentre (Resposta =! a, b, c, d)
+2.   Escriure (Indica cual de las siguientes opciones no es un tipo primitivo de Java:)
+3.   Escriure (a. int)
+4.   Escriure (b. char)
+5.   Escriure (c. boolean)
+6.   Escriure (d. String)
+7.   Llegir (Resposta)
+8.   Escriure (Resposta no vàlida. Posa 'a, b, c, d'.)
+9.   Fimentre
+10.   Si (Resposta = a, b, c)
+11.   Escriure (La resposta no és incorrecte.)
+12.   Sinó si (Resposta = d)
+13.   Escriure (La resposta és correcte!)
