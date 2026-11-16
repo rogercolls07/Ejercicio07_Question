@@ -6,6 +6,8 @@ void main() {
     int correctes = 0;
     int incorrectes = 0;
 
+
+
     Scanner llegir = new Scanner(System.in);
 
     System.out.println("Indica cuál de las siguientes opciones no es un tipo primitivo de Java:");
